@@ -1,0 +1,19 @@
+{
+  "name": "ts-global",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustANutshell/ts-global.git"
+  },
+  "author": "Dark",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JustANutshell/ts-global/issues"
+  },
+  "homepage": "https://github.com/JustANutshell/ts-global#readme"
+}

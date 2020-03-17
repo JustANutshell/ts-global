@@ -13,7 +13,13 @@
   "author": "Dark",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JustANutshell/ts-global/issues"
+    "url": "https://github.com/JustANutshell/ts-global/issues",
+    "email": "darklolcrap@gmail.com"
   },
-  "homepage": "https://github.com/JustANutshell/ts-global#readme"
+  "keywords": [
+    "typescript",
+    "variables",
+    "globals",
+    "global"
+  ]
 }
